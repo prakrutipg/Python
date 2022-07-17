@@ -1,4 +1,4 @@
-# Assignment: Automate Your Day Job with Python
+# Automate Your Day Job with Python
 
 ## Background
 
@@ -14,7 +14,7 @@ You've made it! It's time to put away the Excel sheet and join the big leagues. 
 
 4. Push the above changes to GitHub.
 
-## PyBank (Required)
+## PyBank
 
 ![Revenue](Images/revenue-per-lead.jpg)
 
@@ -46,7 +46,7 @@ Your resulting analysis should look similar to the following:
 
 Your final script should print the analysis to the terminal and export a text file with the results.
 
-## PyRamen (Optional)
+## PyRamen
 
 ![ramen.jpg](Images/ramen.jpg)
 
@@ -184,57 +184,6 @@ Complete the following:
 * **Start early**, and reach out for help often! Challenge yourself to identify _specific_ questions for your instructors and TAs. Don't resign yourself to simply saying, "I'm totally lost." Come prepared to show your effort and thought patterns, we'll be happy to help along the way.
 
 * Always commit your work (and do it often!) and back it up with GitHub pushes. You don't want to lose hours of your work because you didn't push it to GitHub every half hour or so.
-
-## Submission
-
-* Upload homework files to your GitHub repo.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
-
----
-### Requirements
-
-#### Set Up Project  (35 points)
-
-##### To receive all points, you must:
-
-* Create a GitHub repo named: `python-homework`. (10 points)
-* Create a directory within your repository to store the activity. (5 points)
-* Add a notebook file named `main.ipynb` to your directory. (10 points)
-* Update the repository with your latest changes. (10 points)
-
-#### Analysis and Calculations (35 points)
-
-##### To receive all points, your code must:
-
-* Include a calculation of the total number of months in the dataset. (2 points)
-* Calculate the net total amount of Profit/Losses over the entire period. (3 points)
-* Calculate the average of the changes in Profit/Losses over the entire period. (5 points)
-* Calculate the greatest increase in Profits over the entire period (Date and Amount). (10 points)
-* Calculate the greatest decrease in Losses over the entire period (Date and Amount). (10 points)
-* Print the analysis and export the analysis to a text file that contains the final results. (5 points)
-
-#### Coding Conventions and Formatting (10 points)
-
-##### To receive all points, your code must:
-
-* Place imports at the beginning of the file, just after any module comments and docstrings and before module globals and constants. (3 points)
-* Name functions and variables with lowercase characters and with words separated by underscores. (2 points)
-* Follow Don't Repeat Yourself (DRY) principles by creating maintainable and reusable code. (3 points)
-* Use concise logic and creative engineering where possible. (2 points)
-
-#### Deployment and Submission (10 points)
-
-##### To receive all points, you must:
-
-* Submit a link to a GitHub repository that’s cloned to your local machine and contains your files. (5 points)
-* Include appropriate commit messages in your files. (5 points)
-
-#### Code Comments (10 points)
-
-##### To receive all points, your code must:
-
-* Be well commented with concise, relevant notes that other developers can understand. (10 points)
 
 ---
 
